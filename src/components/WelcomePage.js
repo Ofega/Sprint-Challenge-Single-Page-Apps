@@ -11,6 +11,10 @@ export default function WelcomePage() {
           alt="rick"
         />
       </header>
+
+      <navigation>
+        
+      </navigation>
     </section>
   );
 }
