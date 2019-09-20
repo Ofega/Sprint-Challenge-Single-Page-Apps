@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: It reduces the load on server by being able to make a single network request for resources, Navigation through the app is blazing fast.
 
 ## Project Set Up
 
