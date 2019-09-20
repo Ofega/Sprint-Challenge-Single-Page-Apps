@@ -87,11 +87,11 @@ export default function Header() {
         <h1 className="ui center">Rick &amp; Morty Fan Page</h1>
       </header>
 
-      <Menu pointing>
+      <Menu>
         <NavLink exact to="/" activeClassName="selected">Home Page</NavLink>
         <NavLink to="/characters" activeClassName="selected">Characters</NavLink>
         <NavLink to="/locations" activeClassName="selected">Locations</NavLink>
-    </Menu>
+      </Menu>
     </>
   );
 }
