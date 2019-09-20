@@ -53,7 +53,7 @@ export default function CharacterList() {
     }
   }, [canSearch]);
 
-  
+
   return (
     <>
       <SearchForm keyword={keyword} onSearch={onSearch} handleInputChange={handleInputChange} />
